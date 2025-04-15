@@ -54,7 +54,7 @@ const Cart = () => {
                   <IconButton
                     onClick={() => handleChange(item.id, item.quantity - 1)}
                     color="primary"
-                    disabled={item.quantity <= 1}
+                    disabled={item.quantity <= 0}
                   >
                     <Remove />
                   </IconButton>
