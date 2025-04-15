@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+      "product_name": "Wireless Mouse",
+      "sku": "WM-001",
+      "price": 29.99,
+      "description": "Ergonomic wireless mouse with 1600 DPI sensitivity.",
+      "brand": "LogiTech",
+      "id": "f4b0"
+    },
+    {
+      "product_name": "Mechanical Keyboard",
+      "sku": "MK-002",
+      "price": 89.99,
+      "description": "RGB backlit mechanical keyboard with blue switches.",
+      "brand": "Corsair",
+      "id": "1613"
+    },
+    {
+      "product_name": "HD Monitor",
+      "sku": "HDM-003",
+      "price": 199.99,
+      "description": "24-inch Full HD monitor with HDMI and VGA support.",
+      "brand": "Samsung",
+      "id": "07b9"
+    },
+    {
+      "product_name": "USB-C Hub",
+      "sku": "UCH-004",
+      "price": 49.99,
+      "description": "6-in-1 USB-C hub with HDMI, USB 3.0, and card reader.",
+      "brand": "Anker",
+      "id": "e6df"
+    },
+    {
+      "product_name": "Bluetooth Speaker",
+      "sku": "BS-005",
+      "price": 39.99,
+      "description": "Portable Bluetooth speaker with 12-hour battery life.",
+      "brand": "JBL",
+      "id": "07a7"
+    },
+    {
+      "product_name": "Noise Cancelling Headphones",
+      "sku": "NCH-006",
+      "price": 129.99,
+      "description": "Over-ear headphones with active noise cancellation.",
+      "brand": "Sony",
+      "id": "2778"
+    },
+    {
+      "product_name": "Smartwatch",
+      "sku": "SW-007",
+      "price": 149.99,
+      "description": "Fitness smartwatch with heart rate and GPS tracking and light .",
+      "brand": "Fitbit",
+      "id": "6065"
+    },
+    {
+      "product_name": "Gaming Chair",
+      "sku": "GC-008",
+      "price": 249.99,
+      "description": "Ergonomic gaming chair with lumbar support , comfort.",
+      "brand": "DXRacer",
+      "id": "0a51"
+    },
+    {
+      "product_name": "External SSD 1TB",
+      "sku": "ESSD-009",
+      "price": 119.99,
+      "description": "Portable 1TB SSD with USB-C connection with 5fi.",
+      "brand": "SanDisk",
+      "id": "1b85"
+    },
+    {
+      "product_name": "Webcam 1080p",
+      "sku": "WC-010",
+      "price": 59.99,
+      "description": "Full HD webcam with built-in microphone with ai.",
+      "brand": "LogiTech",
+      "id": "7531"
+    },
+    {
+      "product_name": "Laptop Stand",
+      "sku": "LS-011",
+      "price": 34.99,
+      "description": "Adjustable aluminum stand for laptops up to 17\".",
+      "brand": "Nulaxy",
+      "id": "37b9"
+    },
+    {
+      "product_name": "Smart Light Bulb",
+      "sku": "SLB-012",
+      "price": 19.99,
+      "description": "Wi-Fi enabled bulb with color control via app.",
+      "brand": "Philips Hue",
+      "id": "1db6"
+    },
+    {
+      "product_name": "Portable Projector",
+      "sku": "PP-013",
+      "price": 299.99,
+      "description": "Mini projector with HDMI and wireless casting.",
+      "brand": "Anker Nebula",
+      "id": "40a4"
+    },
+    {
+      "product_name": "Wireless Charging Pad",
+      "sku": "WCP-014",
+      "price": 24.99,
+      "description": "10W fast wireless charger for smartphones.",
+      "brand": "Belkin",
+      "id": "1c5e"
+    },
+    {
+      "product_name": "4K Action Camera",
+      "sku": "AC-015",
+      "price": 139.99,
+      "description": "Waterproof 4K camera with wide-angle lens.",
+      "brand": "GoPro",
+      "id": "c33e"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "597a",
+      "name": "MUKILAN KARUPUSAMY",
+      "email": "vkmukilan@gmail.com",
+      "message": "hi"
+    },
+    {
+      "id": "731e",
+      "name": "MUKILAN KARUPUSAMY",
+      "email": "vkmukilan@gmail.com",
+      "message": "good one"
+    },
+    {
+      "id": "d60b",
+      "name": "MUKILAN KARUPUSAMY",
+      "email": "vkmukilan@gmail.com",
+      "message": "no",
+      "phone": "88",
+      "subject": "grh"
+    },
+    {
+      "id": "7274",
+      "name": "v k MUKILAN",
+      "email": "vkmukilan@gmail.com",
+      "message": "hi",
+      "subject": "455dfhf",
+      "phone": "08220519741"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+/* index.css */
+
+body {
+    background-color: #fffefe;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  #root, .App {
+    min-height: 100vh;
+    background-color: #bad3e1;
+  }
+  
